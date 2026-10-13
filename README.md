@@ -1,6 +1,6 @@
 # 🎬 한국 영화 관객 수 예측
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jinho1017-eng/Korean-movie-ml/blob/main/korean_movie_audience_prediction.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jinho1017-eng/korean-movie-audience-prediction/blob/main/korean_movie_audience_prediction.ipynb)
 
 한국 박스오피스 데이터로 영화의 **전체 관객 수**를 예측하는 회귀 모델을 만들고, 여러 모델의 성능을 비교했습니다.
 
